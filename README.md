@@ -174,10 +174,6 @@ The app analyzes various aspects of exercise form:
 - [ ] Voice coaching and cues
 - [ ] Multi-user support
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Apple's Core ML and PoseNet models
